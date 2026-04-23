@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CataAlTreilea
-- 👀 👀 I'm interested in web development (front-end and back-end), cybersecurity, web design, web app creation, and software engineer.
-- 🌱 I'm currently learning Django, a Python web framework, and working on building a personal blog website as part of my studies at West University of Timisoara.
-- 💞️ I'm looking to collaborate on beginner-friendly web development projects, cybersecurity initiatives, or software enginerring projects where I can contribute my skills and learn from experienced developers.
-- 📫 How to reach me: You can reach me via email at baboscatalin1@gmail.com
+-  Hi, I’m @CataAlTreilea
+
+
 
 
 
